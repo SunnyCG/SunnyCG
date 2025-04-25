@@ -1,5 +1,5 @@
 ## Hi there 👋
-点击这里访问[我的视觉小说](https://sunnycg.github.io/SunnyCG/ppt/index.html){:target="_blank"}
+点击这里访问[我的视觉小说](https://sunnycg.github.io/SunnyCG/ppt/index.html)
 
 <!--
 **SunnyCG/SunnyCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

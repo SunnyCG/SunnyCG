@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1563943939
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: successpannel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: failpannel_prefab
+      Dependencies: {}
+    Info_2:
+      Name: end_prefab
+      Dependencies: {}
+    Info_3:
+      Name: gamestart_prefab
+      Dependencies: {}
+    Info_4:
+      Name: healthbar_prefab
+      Dependencies: {}
